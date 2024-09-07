@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Kostya
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">ICS-3 "Information Systems and Telecommunications" student from BMSTU, Russia</h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
+<h3 align="center">ICS-3 student from BMSTU, Russia <br/> Frontend developer in VK</h3>
 
 <br>
 
-- 🖥 I'm Frontend developer
-- 🔭 I’m currently working on <a href="https://github.com/rissenberg/Emojigram">Emojigram</a> web app
+- 🖥 I'm Frontend developer in VK
+- 🔭 I’m currently working on VK Tutoria
 - 🌱 I’m currently learning FSD architecture and Redux Storage
-- 🤔 I’m looking for ~~help~~ job
-- 📫 How to reach me: **tg:**  ```@PassPort_Guardian```, **vk:**  ```@rissenberg``` or rissychannel@gmail.com
+- 🤔 I’m looking for ~~help~~ ~~job~~ nothing!
+- 📫 How to reach me: **tg:**  ```@PassPort_Guardian```, **vk:**  ```@rissenberg``` or kst.gorshkov@gmail.com
 
 
 ### :computer: Skills
