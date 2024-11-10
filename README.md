@@ -5,7 +5,7 @@
 <br>
 
 - 🖥 I'm Frontend developer in VK
-- 🔭 I’m currently working on VK Tutoria
+- 🔭 I’m currently working on VK Video
 - 🌱 I’m currently learning FSD architecture and Redux Storage
 - 🤔 I’m looking for ~~help~~ ~~job~~ nothing!
 - 📫 How to reach me: **tg:**  ```@PassPort_Guardian```, **vk:**  ```@rissenberg``` or kst.gorshkov@gmail.com
